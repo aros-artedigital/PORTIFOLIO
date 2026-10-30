@@ -10,7 +10,7 @@ Bem-vindo ao repositório do **Blog Aros**! Este projeto é uma plataforma web v
 
 ## 🔗 Link do Projeto
 
-- **Live Demo / Site:** [homedevweb.netlify.app]([https://homedevweb.netlify.app](https://designerdev.netlify.app/))
+- **Live Demo / Site:** [homedevweb.netlify.app](https://designerdev.netlify.app/)
 - **Painel Netlify:** [homedevweb on Netlify](https://app.netlify.com/projects/designerdev/overview)
 
 ---
