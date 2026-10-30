@@ -1,4 +1,4 @@
-# 🌐 Portifolio - HomeDevWeb
+# 🌐 Portifolio - DevWeb
 
 ![Netlify Status](https://img.shields.io/badge/Netlify-Deployed-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)
